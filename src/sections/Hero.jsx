@@ -28,7 +28,7 @@ const Hero = ({ theme }) => {
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
           <span className="font-outfit font-bold text-peak-neon text-sm uppercase tracking-[0.4em] mb-6 block drop-shadow-sm">
-            Peter Zeke | CrossFit & Fast Fitness | Powered by GitHub MCP
+            PETER ZEKE | CROSSFIT | POWERED BY GITHUB MCP & VERCEL V1.0
           </span>
           <h1 className={`font-outfit font-extrabold text-7xl md:text-9xl lg:text-[10rem] leading-[0.85] tracking-tighter mb-8 italic uppercase transition-colors duration-500 ${isDark ? 'text-white' : 'text-peak-dark'}`}>
             FROM MEEK <br />
